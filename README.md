@@ -1,5 +1,9 @@
 # 交互数据可视化
-### 1.所用到的数据及来源网站
+
+### pythonanywhere部署网址
+http://icxie.pythonanywhere.com
+
+### 所用到的数据及来源网站
 - 数据网站
 
 [世界数据](https://ourworldindata.org/)
@@ -55,11 +59,6 @@
 [空气污染死亡人数对比折线图 .ipynb](https://github.com/aracal6/interactive_visualization-/blob/master/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%AF%B9%E6%AF%94%E6%8A%98%E7%BA%BF%E5%9B%BE%20.ipynb)
 
 [空气污染死亡人数对比折线图.html](https://github.com/aracal6/interactive_visualization-/blob/master/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%AF%B9%E6%AF%94%E6%8A%98%E7%BA%BF%E5%9B%BE.html)
-
-
-
-### pythonanywhere部署网址
-http://icxie.pythonanywhere.com
 
 
 ### 运用到的css样式美化网页
